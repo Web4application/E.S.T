@@ -1,0 +1,11 @@
+// The JST layer handles live updates without refreshes
+const app = document.getElementById('app');
+const baseValue = app.dataset.base;
+
+// A simple interactive function
+app.innerHTML = `
+    <div class="card">
+        <p>Base Structure from .est: <strong>${baseValue}</strong></p>
+        <button onclick="alert('JST Layer Active!')">Activate Intelligence</button>
+    </div>
+`;
