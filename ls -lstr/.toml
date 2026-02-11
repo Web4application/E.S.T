@@ -1,0 +1,4 @@
+[netifyd]
+syn_scan_protection = no
+
+path_state_volatile = /var/run/netifyd
