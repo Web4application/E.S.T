@@ -1,4 +1,3 @@
-```jst
 // JST: The final layer of the stack
 const root = document.getElementById('root');
 const config = JSON.parse(root.dataset.config);
