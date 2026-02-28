@@ -1,6 +1,4 @@
----
-
-## **1. Project Structure**
+https://Fastcore.xml
 
 ```fastht.ml
 aura_population/
