@@ -1,0 +1,15 @@
+{
+  "short_name": "webOSbrowser",
+  "name": "webOSbrowser Professional Hub",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#0a0e17",
+  "theme_color": "#3773f5",
+  "display": "standalone"
+}
